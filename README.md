@@ -32,5 +32,7 @@ A simple yet functional web-based calculator built using **HTML**, **CSS**, and 
 └── README.md ➔ Project documentation
 ```
 
+## 📸 Preview
 
+![image](https://github.com/user-attachments/assets/b0276f1f-859a-4bb2-9555-a84d6ef6dca9)
 
